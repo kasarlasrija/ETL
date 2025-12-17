@@ -1,0 +1,2 @@
+shipment_id,source_city,destination_city,dispatch_time,expected_delivery_time,actual_delivery_time,package_weight,delivery_agent_id,delay_minutes,delay_class,agent_score,congestion_score,avg_route_speed,weather_warnings,traffic_impact_score,predicted_delay_risk_level,delivery_efficiency_index
+SHP001,Delhi,Mumbai,2025-12-11 08:00:00,2025-12-11 16:00:00,2025-12-11 16:30:00,12.5,AG001,30.0,Slight Delay,4,,,,,Low Risk,1.6129032258064515

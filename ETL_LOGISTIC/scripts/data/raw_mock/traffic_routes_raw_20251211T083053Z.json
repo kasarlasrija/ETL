@@ -1,0 +1,14 @@
+[
+  {
+    "city_name": "Delhi",
+    "congestion_score": 8,
+    "avg_speed": 25,
+    "weather_warning": "None"
+  },
+  {
+    "city_name": "Mumbai",
+    "congestion_score": 6,
+    "avg_speed": 35,
+    "weather_warning": "Heavy Rain"
+  }
+]

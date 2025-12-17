@@ -1,0 +1,22 @@
+{
+    "routes": [
+        {
+            "city": "Mumbai",
+            "congestion_score": 8,
+            "avg_speed": 22.5,
+            "weather_warnings": "Heavy Rain"
+        },
+        {
+            "city": "Delhi",
+            "congestion_score": 6,
+            "avg_speed": 28.0,
+            "weather_warnings": null
+        },
+        {
+            "city": "Pune",
+            "congestion_score": 4,
+            "avg_speed": 35.2,
+            "weather_warnings": null
+        }
+    ]
+}
